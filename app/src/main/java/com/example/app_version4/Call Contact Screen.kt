@@ -78,7 +78,7 @@ fun DisplayContact(
     Column(
         modifier = Modifier
             .padding(vertical = 15.dp)
-            .width(250.dp)
+            .width(300.dp)
             .height(130.dp)
             .background(Blue)
             .pointerInput(Unit) {

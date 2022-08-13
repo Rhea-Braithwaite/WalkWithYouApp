@@ -121,14 +121,11 @@ fun NavGraph(
 
 fun Navigate(navController: NavController, route: String){
     navController.navigate(route){
-        // Pop up to the start destination of the graph to
-        // avoid building up a large stack of destinations
-        // on the back stack as users select items
-        navController.graph.startDestinationRoute?.let { route ->
-            popUpTo(route) {
-                saveState = true
-            }
+        popUpTo(route){
+            saveState = true
+            inclusive = true
         }
+
         // Avoid multiple copies of the same destination when
         // reselecting the same item
         launchSingleTop = true
