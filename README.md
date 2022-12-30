@@ -3,7 +3,7 @@ Creators: Rhea Braithwaite and Jasmine Zhang
 
 Welcome to the Github Repo for our WalkWithYou App
 
-WalkWithYou was the product of a 10 week long hackathon that in the SEEDS DandiLyonn program. The Hackathon is a learning and collaborative project to teach participants about how to develop an app, from beginning to end. 
+WalkWithYou was the product of a 10 week long hackathon that in the SEEDS DandiLyonn program. The Hackathon was a learning and collaborative project to teach participants about how to develop an app, from beginning to end. 
 
 Much of the work that we did was front-end development, but in the future, we hope to work further on the back-end.
 
