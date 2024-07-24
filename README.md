@@ -7,5 +7,5 @@ WalkWithYou was the product of a 10 week long hackathon in the SEEDS DandiLyonn 
 
 Much of the work that we did was front-end development, but in the future, we hope to work further on the back-end.
 
-Click [here](https://www.canva.com/design/DAFJCr80R5g/IU1W7HbgUWGje3QxdVjDuQ/view?utm_content=DAFJCr80R5g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) to see a presentation on our app, from ideation to the final product at the end of the hackathon.
+Click [here](https://www.canva.com/design/DAFJCr80R5g/hRxErkYpC61RpQ85V2_U6Q/view?utm_content=DAFJCr80R5g&utm_campaign=designshare&utm_medium=link&utm_source=editor) to see a presentation on our app, from ideation to the final product at the end of the hackathon.
 
